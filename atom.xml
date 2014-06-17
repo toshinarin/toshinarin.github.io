@@ -4,7 +4,7 @@
   <title><![CDATA[わくわく備忘録]]></title>
   <link href="http://toshinarin.github.io/atom.xml" rel="self"/>
   <link href="http://toshinarin.github.io/"/>
-  <updated>2014-06-18T07:54:41+09:00</updated>
+  <updated>2014-06-18T08:20:20+09:00</updated>
   <id>http://toshinarin.github.io/</id>
   <author>
     <name><![CDATA[toshinarin]]></name>
@@ -12,5 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ブログを作ってみた]]></title>
+    <link href="http://toshinarin.github.io/blog/2014/06/18/buroguwozuo-tutemita/"/>
+    <updated>2014-06-18T08:11:15+09:00</updated>
+    <id>http://toshinarin.github.io/blog/2014/06/18/buroguwozuo-tutemita</id>
+    <content type="html"><![CDATA[<p>以下のページを参考にしながら構築しました。</p>
+
+<ul>
+<li><a href="http://morizyun.github.io/blog/octopress-gitpage-minimum-install-guide/">http://morizyun.github.io/blog/octopress-gitpage-minimum-install-guide/</a></li>
+</ul>
+
+
+<p>一つハマったのが、deployコマンドでpushしようとしたときに、失敗してしまったことでした。原因はブログのリポジトリにダミーページを作っていたためのようでした。ダミーページは消してしまってよかったので、以下を参考にforce pushして解決しました。</p>
+
+<ul>
+<li><a href="http://qiita.com/takuma7/items/2d6f6e786eb6c0afbefb">http://qiita.com/takuma7/items/2d6f6e786eb6c0afbefb</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
