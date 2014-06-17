@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://toshinarin.github.io/sitemap.xml 
